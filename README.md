@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Shaw</h1>
-<h3 align="center">an enthusiastic developer and student of computer science from West Bengal, India</h3>
+<h3 align="center">I'm a computer science and enthusiastic developer from West Bengal, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishaw67890&label=Profile%20views&color=0e75b6&style=flat" alt="abhishaw67890" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **abhishaw67890@gmail.com**
 
-- 📄 Know about my experiences [resumelink.link](resumelink.link)
+- 📄 Know about my experiences [resumelink.link](https://drive.google.com/file/d/1PQQjJINow606o7DWiFW8wOc2_LQBfQEJ/view?usp=sharing)
 
 - ⚡ My interests include **photography, geopolitics, and gaming**
 
